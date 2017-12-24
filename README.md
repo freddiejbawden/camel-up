@@ -5,4 +5,4 @@ Progress Update #1
 
 The movement mechanics of the game have been sucessfully implemented, this includes a rolling 5 coloured dice independently and moving the coloured "camel" around the course, if a camel lands on the same square as another it stacks on top. When a camel moves it takes with it all camels above it. 
 
-![pic](https://raw.githubusercontent.com/freddiejbawden/camel-up/camel_up_1_picture.PNG )
+![pic](camel-up/camel_up_1_picture.PNG )
