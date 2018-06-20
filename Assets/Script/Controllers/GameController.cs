@@ -153,7 +153,7 @@ public class GameController : MonoBehaviour {
                
                 if (bt.getColor() == pos[0])
                 {
-                    resultsText += p.getName() + " gets " + bt.getValue() + " for " + pos[0] + "coming first\n";
+                    resultsText += p.getName() + " gets " + bt.getValue() + " for " + pos[0] + " coming first\n";
                     p.alterFunds(3);
                 }
                 else if (bt.getColor() == pos[1])
